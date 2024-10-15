@@ -34,4 +34,5 @@ Analyzed product-specific sales, identifying top-selling products and those need
 Investigated sales performance at different times of the day, determining peak hours for customer traffic and sales.
 
 
-Sorce raw file: [](https://github.com/priyadharshan344/Retail-analysis/blob/main/Coffee%20Shop%20Sales.xlsx)
+## Sorce raw file: 
+[Raw file](https://github.com/priyadharshan344/Retail-analysis/blob/main/Coffee%20Shop%20Sales.xlsx)
