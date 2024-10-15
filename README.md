@@ -36,3 +36,7 @@ Investigated sales performance at different times of the day, determining peak h
 
 ### Source raw file: 
 [Raw file](https://github.com/priyadharshan344/Retail-analysis/blob/main/Coffee%20Shop%20Sales.xlsx)
+
+
+### BI Project file
+[BI File](
