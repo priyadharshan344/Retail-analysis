@@ -39,4 +39,7 @@ Investigated sales performance at different times of the day, determining peak h
 
 
 ### BI Project file
-[BI File](
+[BI File](https://github.com/priyadharshan344/Retail-analysis/blob/main/Coffee%20dash.pbix)
+
+### SQL EDA Queries
+
